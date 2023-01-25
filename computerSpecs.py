@@ -1,4 +1,5 @@
 #Script to find and printout system information
+#I've made some changes
 
 import socket
 import os
