@@ -2,8 +2,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='cl_test_package',
-    version='0.1',
+    name='CL_first setup.py file',
+    version='0.2',
     description='A sample Python package',
     author='Cormac Lynch',
     author_email='cormac.lynch1@ucdconnect.ie',
